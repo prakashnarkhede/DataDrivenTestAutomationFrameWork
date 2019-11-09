@@ -20,8 +20,8 @@ public class TestBase {
 		
 		//use webDriver manager to manage driver executable automatically
 		WebDriverManager.chromedriver().setup();
-		WebDriverManager.firefoxdriver().setup();
-		WebDriverManager.iedriver().setup();
+	//	WebDriverManager.firefoxdriver().setup();
+	//	WebDriverManager.iedriver().setup();
 		
 		//launch chrome browser
 		WebDriver driver = new ChromeDriver();

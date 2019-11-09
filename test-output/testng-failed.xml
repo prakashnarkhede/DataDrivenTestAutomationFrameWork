@@ -6,8 +6,10 @@
       <class name="com.automationtalks.RegressionSuite.VehicalInsuranceCalculator">
         <methods>
           <include name="ApplicationLogin"/>
-          <include name="motorCycleInsuranceCalculation1"/>
-          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="endReport"/>
+          <include name="getResult"/>
+          <include name="motorCycleInsuranceCalculation_Test2"/>
         </methods>
       </class> <!-- com.automationtalks.RegressionSuite.VehicalInsuranceCalculator -->
     </classes>
