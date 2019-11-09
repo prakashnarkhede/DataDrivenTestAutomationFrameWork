@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Test Suite" duration-ms="26204" started-at="2019-11-09T07:54:35 IST" finished-at="2019-11-09T07:55:01 IST">
+    <groups>
+    </groups>
+    <test name="Front End Test Cases - V001" duration-ms="26204" started-at="2019-11-09T07:54:35 IST" finished-at="2019-11-09T07:55:01 IST">
+      <class name="com.automationtalks.RegressionSuite.VehicalInsuranceCalculator">
+        <test-method status="PASS" signature="ApplicationLogin()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="ApplicationLogin" is-config="true" duration-ms="14428" started-at="2019-11-09T07:54:35 IST" finished-at="2019-11-09T07:54:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationLogin -->
+        <test-method status="PASS" signature="motorCycleInsuranceCalculation()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="motorCycleInsuranceCalculation" duration-ms="7" started-at="2019-11-09T07:54:49 IST" finished-at="2019-11-09T07:54:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorCycleInsuranceCalculation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="tearDown" is-config="true" duration-ms="339" started-at="2019-11-09T07:54:49 IST" finished-at="2019-11-09T07:54:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ApplicationLogin()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="ApplicationLogin" is-config="true" duration-ms="11109" started-at="2019-11-09T07:54:50 IST" finished-at="2019-11-09T07:55:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationLogin -->
+        <test-method status="PASS" signature="motorCycleInsuranceCalculation1()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="motorCycleInsuranceCalculation1" duration-ms="1" started-at="2019-11-09T07:55:01 IST" finished-at="2019-11-09T07:55:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorCycleInsuranceCalculation1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationtalks.RegressionSuite.VehicalInsuranceCalculator@551aa95a]" name="tearDown" is-config="true" duration-ms="260" started-at="2019-11-09T07:55:01 IST" finished-at="2019-11-09T07:55:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationtalks.RegressionSuite.VehicalInsuranceCalculator -->
+    </test> <!-- Front End Test Cases - V001 -->
+  </suite> <!-- Regression Test Suite -->
+</testng-results>
